@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Mi Armario",
+  "short_name": "Mi Armario",
+  "description": "Tu armario personal y tus conjuntos favoritos.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fafbf9",
+  "theme_color": "#214d42",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
